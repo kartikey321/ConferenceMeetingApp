@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936484292945",
+    "project_id": "conference-meeting-app",
+    "storage_bucket": "conference-meeting-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936484292945:android:42a1f54990fae7290aeb70",
+        "android_client_info": {
+          "package_name": "com.example.dell.conferencemeetingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936484292945-4oirss6si5nl9a1fkvt898nruqgg3elj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE0PG_FfOCrnEa_st6eGUySBj58sj8pKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936484292945-4oirss6si5nl9a1fkvt898nruqgg3elj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
